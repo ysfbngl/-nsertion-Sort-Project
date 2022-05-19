@@ -1,4 +1,4 @@
-# -insertion-Sort-Project
+# Insertion-Sort-Project
 [22,27,16,2,18,6] --> insertion sort
 
 1-) insertion sort step
